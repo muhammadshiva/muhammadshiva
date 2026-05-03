@@ -21,7 +21,7 @@
 const shiva = {
   pronouns: "He" | "Him",
   location: "Malang, Indonesia 🇮🇩",
-  role: "Fullstack Developer",
+  role: "Software Engineer",
   languages: ["Indonesian", "English"],
   currentFocus: [
     "Building SaaS products 🚀",
